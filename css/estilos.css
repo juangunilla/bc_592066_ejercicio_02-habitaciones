@@ -1,0 +1,28 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo{
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+h1, h2{
+    color: #bc6797;
+}
+.titulo{
+    text-align: center;
+    font-size: 62px;
+    font-weight: lighter;
+}
+.imgHoteles{
+    width: 500px;
+    float: right;
+}
+.imgHoteles1{
+    float: left;
+    width: 500px;
+    display: block;
+}
+.mickey{
+   width: 100%;
+}
